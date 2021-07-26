@@ -1,0 +1,152 @@
+/*big tablet to laptop 1023-1200*/
+@media only screen and (max-width:1200px){
+    .jason-img{
+        margin-left: 650px;
+        margin-top: -450px;
+    }
+    .fourimages{
+        margin-left: 635px;
+        margin-top: -580px;
+    }
+    .list-icon{
+        display: none;
+    }
+    
+    
+}
+/*small tab to big tablet 747-1023*/
+@media only screen and (max-width:1023px){
+    .firstbox{
+        margin-left: -50px;
+    } 
+    .jason-img{
+        margin-left: 500px;
+        
+    }
+    .jason-img1{
+        margin-left:-50px;
+    }
+    .fourimages{
+        margin-left: 500px;
+    }
+    .footer-text{
+        margin-left: 340px;
+    }
+    .list-icon{
+        display: none;
+    }
+}
+/*big phone to small tablet */
+@media only screen and (max-width:768px){
+    .shopping-icon{
+        display: none;
+    }
+    .homea{
+        margin-left: -80px;
+    }
+    .Pagestwo{
+        margin-left: -60px;
+    }
+    .Portfoliothree{
+        margin-left: -40px;
+    }
+    .shophome{
+        margin-left: 0px;
+    }
+    .Blogone{
+        margin-left: 20px;
+    }
+    .Featureone{
+        margin-left: 30px;
+    }
+    .jason-img{
+        margin-top: 60px;
+        margin-left: 280px;
+        height: 550px;
+    }
+    .firstbox{
+        width: 800px;
+    }
+    .jason-img5{
+        margin-top: -860px;
+        margin-left: -500px;
+    }
+    .jason-img2{
+        margin-top: -860px;
+        margin-left: -500px;
+        height: 280px;
+    }
+    .footer-text{
+     margin-left: 200px;
+    }
+    .list-icon{
+        display: none;
+    }
+}
+@media only screen and (max-width:480px){
+    .homea{
+        display: none;
+    }
+    .jason-img{
+    height: 450px;
+    width: 550px;
+    margin-left: -0px;
+   }
+    .jason-img6{
+      height: 450px;
+      width: 550px;  
+      margin-left: -520px;
+      margin-top: 635px;
+    }
+    .jason-img5{
+       margin-top: 50px; 
+       height: 450px;
+       width: 550px;
+        margin-left: -520px;
+        
+    }
+    .jason-img2{
+        margin-top: 50px;
+        height: 450px;
+        width: 550px;
+        margin-left: -520px;
+    }
+    .jason-img1{
+        margin-left: 0px;
+    }
+    .jason-img4{
+        margin-top: 50px;
+        margin-left: -520px;
+        height: 450px;
+        width: 550px;
+    }
+    .footer-text{
+        margin-left: 40px;
+        margin-right: -780px;
+        font-weight: 100;
+        font-size: 20px;
+    }
+    .list-icon{
+        height: 30px;
+        width: 30px;
+        margin-left: 60px;
+        margin-bottom: 25px;
+    }
+    .list-icon:link,
+    .list-icon:visited{
+        height: 30px;
+        width: 30px;
+        margin-left: 60px;
+        margin-bottom: 25px;
+    }
+    .list-icon:hover,
+    .list-icon:active{
+        height: 40px;
+        width: 40px;
+        margin-left: 60px;
+        margin-bottom: 25px;
+    }
+    .firstbox{
+        width: 500px;
+    }
+}
